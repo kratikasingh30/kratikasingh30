@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Kratika Singh
+👀 I’m interested in solving DSA , Data Analytics and Python.
+🌱 I’m currently working on Web and Android development.
+📫 How to reach me : You can message me on LinkedIn : https://www.linkedin.com/in/kratika-singh-3268a5249/
+😄 Pronouns: She/her
 
 <!--
 **kratikasingh30/kratikasingh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
